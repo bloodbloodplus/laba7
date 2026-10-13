@@ -39,7 +39,7 @@
 12. **Конец программы.**
 
 ### Блок-схема
-<img width="1078" height="1460" alt="блоксхема" src="https://github.com/user-attachments/assets/b67b199f-6f4d-432f-84fc-58a3fe69c78a" />
+<img width="266" height="486" alt="блоксхема" src="https://github.com/user-attachments/assets/b67b199f-6f4d-432f-84fc-58a3fe69c78a" />
 
 
 
